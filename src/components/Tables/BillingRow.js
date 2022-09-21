@@ -25,7 +25,7 @@ function BillingRow(props) {
           <Text color="gray.400" fontSize="sm" fontWeight="semibold">
             Company Name:{" "}
             <Text as="span" color="gray.500">
-              {company}
+              Siqsess
             </Text>
           </Text>
           <Text color="gray.400" fontSize="sm" fontWeight="semibold">
